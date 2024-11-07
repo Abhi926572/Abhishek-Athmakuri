@@ -10,5 +10,7 @@ https://github.com/Abhi926572/Abhishek-Athmakuri/blob/main/Assignment3.ipynb
 https://github.com/Abhi926572/Abhishek-Athmakuri/blob/main/Assignment4.ipynb
 https://github.com/Abhi926572/Abhishek-Athmakuri/blob/main/Lab_5.ipynb
 https://github.com/Abhi926572/Abhishek-Athmakuri/blob/main/Assignment7.ipynb
+https://github.com/Abhi926572/Abhishek-Athmakuri/blob/main/Exam.ipynb
+
 
 
